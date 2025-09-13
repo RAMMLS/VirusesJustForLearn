@@ -1,9 +1,0 @@
-[Unit]
-Description = XXX
-
-[Service]
-ExecStart = /usr/bin/sh
-Type = fork
-
-[Install]
-WanteBy = multy-user.target
