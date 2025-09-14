@@ -1,0 +1,7 @@
+{
+  "Message": "Обучение не пройдено! Введите пароль для выхода. ",
+  "InputBlockerType": "Keyboard",
+  "ExitConditionType": "Password",
+  "Password": "secretpassword",
+  "KeyCombination": "Ctrl+Alt+Q"
+}
